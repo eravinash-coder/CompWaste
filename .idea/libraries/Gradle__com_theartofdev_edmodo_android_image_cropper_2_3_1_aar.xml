@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.theartofdev.edmodo:android-image-cropper:2.3.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4af62606ce0332a556dbba03545adca0/transformed/jetified-android-image-cropper-2.3.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4af62606ce0332a556dbba03545adca0/transformed/jetified-android-image-cropper-2.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4af62606ce0332a556dbba03545adca0/transformed/jetified-android-image-cropper-2.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2500bbfe5fca3a72a70ba2dc15e22bb7/transformed/jetified-android-image-cropper-2.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2500bbfe5fca3a72a70ba2dc15e22bb7/transformed/jetified-android-image-cropper-2.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2500bbfe5fca3a72a70ba2dc15e22bb7/transformed/jetified-android-image-cropper-2.3.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.theartofdev.edmodo/android-image-cropper/2.3.1/d24375734fd80891fad843d4e6d1365cfeb5e099/android-image-cropper-2.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.theartofdev.edmodo/android-image-cropper/2.3.1/91e840cfd5ff0caf28b3b7d8ca26d28356a74da0/android-image-cropper-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

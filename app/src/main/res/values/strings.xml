@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CompWaste</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="reject">Reject</string>
+
+    <string-array name="State">
+        <item>Maharashtra</item>
+        <item>Gujarat</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Biodegradable waste</item>
+        <item>Non-biodegradable waste</item>
+    </string-array>
+</resources>
